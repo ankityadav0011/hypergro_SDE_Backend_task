@@ -226,12 +226,7 @@ Built with TypeScript, MongoDB (Mongoose), Bcrypt, JWT authentication, and Redis
 
 ---
 
-## Notes
 
-- All protected routes require a valid JWT token in the `Authorization` header.
-- All dates should be in ISO format (e.g., `"2025-08-08"`).
-- All IDs should be valid MongoDB ObjectIds unless otherwise specified.
-- For development, you can use [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest/) to test the API.
 
 ---
 
