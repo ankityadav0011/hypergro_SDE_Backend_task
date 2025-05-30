@@ -1,0 +1,22 @@
+// types/filter-map.ts
+export const filterMap: Record<string, 'string'|'number'|'boolean'|'date'|'array'> = {
+  _id:           'string',
+  title:        'string',
+  type:         'string',
+  price:        'number',
+  state:        'string',
+  city:         'string',
+  areaSqFt:     'number',
+  bedrooms:     'number',
+  bathrooms:    'number',
+  amenities:    'array',    
+  furnished:    'string',
+  availableFrom:'date',
+  listedBy:     'string',
+  tags:         'array',    
+  colorTheme:   'string',
+  rating:       'number',
+  isVerified:   'boolean',
+  listingType:  'string',
+  createdBy:    'string',   
+};
