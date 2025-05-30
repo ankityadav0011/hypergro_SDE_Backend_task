@@ -11,7 +11,7 @@ This command will transfer 1000+ properties data from the CSV file to MongoDB us
 npm run dev
 ```
 
-Deployed live link - 
+Deployed live link - https://hypergro-sde-backend-task.onrender.com/
 
 A Node.js/Express REST API for property listings, user authentication, favorites, recommendations, and more.  
 Built with TypeScript, MongoDB (Mongoose), Bcrypt, JWT authentication, and Redis caching.
